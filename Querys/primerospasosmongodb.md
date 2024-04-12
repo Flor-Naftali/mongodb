@@ -26,3 +26,4 @@
 *Ejemplo*
 
 `show collections`
+

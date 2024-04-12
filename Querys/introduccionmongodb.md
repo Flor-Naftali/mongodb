@@ -5,6 +5,7 @@
     tel: 7777}
 `
 ## Ejemplo de Sintaxis de un Json 
+
 `
     {
         nombre: "Maria", 

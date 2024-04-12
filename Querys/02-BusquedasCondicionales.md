@@ -48,6 +48,7 @@ db.libros.find({editorial: {$in: ['Biblio', 'Planeta']}})
 ```
 # Recuperar una sola fila
 
+
 _Seleccionar todos aquellos docuemntos que sean biblio o planeta, pero
 mostrando solamenente el primer documento encontrado_
 ```

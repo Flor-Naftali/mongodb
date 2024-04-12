@@ -15,6 +15,7 @@ _dos metodos_
 **Eliminar todo el documento con un id = 2**
 ```
 db.libros.deleteOne({_id:2})
+
 ```
 **Eliminar todos los documentos donde la cantidad sea mayor que 150**
 ```
